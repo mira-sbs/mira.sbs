@@ -1,0 +1,9 @@
+[submodule "pvp.mira.sbs"]
+	path = pvp
+	url = https://github.com/mira-sbs/pvp.mira.sbs
+[submodule "mapdev.mira.sbs"]
+	path = mapdev
+	url = https://github.com/mira-sbs/mapdev.mira.sbs
+[submodule "core.mira.sbs"]
+	path = core
+	url = https://github.com/mira-sbs/core.mira.sbs

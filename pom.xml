@@ -20,6 +20,7 @@
   <modules>
     <module>core</module>
     <module>mapdev</module>
+    <module>pvp</module>
   </modules>
 
   <repositories>

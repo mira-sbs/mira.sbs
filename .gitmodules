@@ -1,5 +1,5 @@
 [submodule "pvp.mira.sbs"]
-	path = pvp
+	path = verse
 	url = https://github.com/mira-sbs/pvp.mira.sbs
 [submodule "mapdev.mira.sbs"]
 	path = mapdev
